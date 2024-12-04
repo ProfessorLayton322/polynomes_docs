@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SubstitutionError"],"mod":["monomes","polynomes","traits","variables"],"struct":["Coeff"]};
